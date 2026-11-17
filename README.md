@@ -1,16 +1,34 @@
-## Hi there 👋
+# About Me
 
-<!--
-**sokhendearyan85-crypto/sokhendearyan85-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in cybersecurity, especially Security Operations Center (SOC), threat investigation, and incident response.
 
-Here are some ideas to get you started:
+My work focuses on security log analysis, SIEM investigations, alert triage, and incident documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- Splunk
+- Windows Event Logs
+- Sysmon
+- Linux
+- Wireshark
+- Security Event Analysis
+- Incident Response
+- Technical Documentation
+
+## Projects
+
+My practical cybersecurity investigations and reports are available in my portfolio repository.
+
+**Main Portfolio:** [SOC Analyst Portfolio](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio)
+
+## Areas of Interest
+
+- Security Operations
+- Blue Team
+- Threat Detection
+- SIEM Monitoring
+- Incident Investigation
+
+## Contact
+
+GitHub: https://github.com/sokhendearyan85-crypto
