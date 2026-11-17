@@ -1,34 +1,35 @@
-# About Me
+# SOC Analyst Portfolio
 
-I am interested in cybersecurity, especially Security Operations Center (SOC), threat investigation, and incident response.
+I am interested in cybersecurity, with a focus on Security Operations Center (SOC) operations, security event analysis, and incident response.
 
-My work focuses on security log analysis, SIEM investigations, alert triage, and incident documentation.
+My portfolio contains practical lab exercises and documentation that demonstrate how I review alerts, analyze logs, record evidence, and communicate findings.
 
-## Technical Skills
+## Technical Areas
 
-- Splunk
-- Windows Event Logs
+- SIEM and Splunk
+- Windows Security Event Logs
 - Sysmon
 - Linux
 - Wireshark
-- Security Event Analysis
-- Incident Response
-- Technical Documentation
+- Alert triage and event correlation
+- Incident investigation and documentation
 
-## Projects
+## Selected Work
 
-My practical cybersecurity investigations and reports are available in my portfolio repository.
-
-**Main Portfolio:** [SOC Analyst Portfolio](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio)
+- [SOC Analyst Portfolio](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio)
+- [Sample authentication investigation](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/blob/main/incident-reports/sample-authentication-investigation.md)
+- [Incident report template](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/blob/main/incident-reports/REPORT-TEMPLATE.md)
+- [Splunk investigation notes](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/tree/main/splunk-investigations)
+- [Windows event analysis notes](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/tree/main/windows-event-analysis)
 
 ## Areas of Interest
 
-- Security Operations
-- Blue Team
-- Threat Detection
-- SIEM Monitoring
-- Incident Investigation
+- SOC operations and blue-team monitoring
+- Threat detection and alert investigation
+- Security log analysis
+- Incident response
+- Clear, evidence-based technical reporting
 
-## Contact
+## Note
 
-GitHub: https://github.com/sokhendearyan85-crypto
+Examples in this portfolio are learning demonstrations using synthetic or authorized lab data. They are not claims about real client incidents.
