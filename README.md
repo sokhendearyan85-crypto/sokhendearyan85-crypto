@@ -6,8 +6,8 @@ I use controlled lab environments to understand security events, investigate ale
 
 ## Training
 
-- **Cybersecurity Course — Tutedude:** Completed.
-- Certificate / verification link: not added here yet.
+- **Tutedude Cyber Security Course:** Completed on 11 November 2026. Certificate ID: `TD-ARYA-CS-0613`.
+- The certificate PDF is not yet attached to this profile.
 
 ## Tools and topics
 
