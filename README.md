@@ -1,35 +1,35 @@
-# SOC Analyst Portfolio
+# Hi, I'm Aryan
 
-I am interested in cybersecurity, with a focus on Security Operations Center (SOC) operations, security event analysis, and incident response.
+I am learning and practising cybersecurity with an interest in SOC operations, blue-team monitoring, log analysis and incident response.
 
-My portfolio contains practical lab exercises and documentation that demonstrate how I review alerts, analyze logs, record evidence, and communicate findings.
+I use controlled lab environments to understand security events, investigate alerts and write clear notes about what the evidence shows.
 
-## Technical Areas
+## Training
 
-- SIEM and Splunk
+- **Cybersecurity Course — Tutedude:** Completed.
+- Certificate / verification link: not added here yet.
+
+## Tools and topics
+
+- Splunk Enterprise and SPL
+- Ubuntu / Linux authentication logs
 - Windows Security Event Logs
-- Sysmon
-- Linux
+- Sysmon event analysis
 - Wireshark
-- Alert triage and event correlation
-- Incident investigation and documentation
+- SSH authentication review
+- Alert triage and incident documentation
 
-## Selected Work
+## Selected practical work
 
-- [SOC Analyst Portfolio](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio)
-- [Sample authentication investigation](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/blob/main/incident-reports/sample-authentication-investigation.md)
-- [Incident report template](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/blob/main/incident-reports/REPORT-TEMPLATE.md)
-- [Splunk investigation notes](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/tree/main/splunk-investigations)
-- [Windows event analysis notes](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/tree/main/windows-event-analysis)
+- [Ubuntu SSH authentication review](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/blob/main/incident-reports/ubuntu-ssh-authentication-review.md) — investigation based on four Splunk screenshots from my Ubuntu VirtualBox lab.
+- [Splunk investigation notes](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/tree/main/splunk-investigations) — example searches and analyst notes.
+- [Windows Event / Sysmon notes](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/tree/main/windows-event-analysis)
+- [Phishing triage exercise](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/tree/main/phishing-analysis) — fictional training scenario.
+- [Suspicious file alert triage](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/tree/main/malware-analysis)
+- [Incident response playbook](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio/tree/main/playbooks)
 
-## Areas of Interest
+## Portfolio
 
-- SOC operations and blue-team monitoring
-- Threat detection and alert investigation
-- Security log analysis
-- Incident response
-- Clear, evidence-based technical reporting
+**[Open my SOC Analyst Portfolio](https://github.com/sokhendearyan85-crypto/SOC-Analyst-Portfolio)**
 
-## Note
-
-Examples in this portfolio are learning demonstrations using synthetic or authorized lab data. They are not claims about real client incidents.
+I keep lab evidence, synthetic exercises and general learning notes clearly labelled. I do not present fictional scenarios as real incidents or claim experience I have not had.
