@@ -16,6 +16,9 @@ I'm learning and practising cybersecurity, with an interest in **SOC operations,
 - Wireshark
 - SSH authentication review
 - Alert triage and incident documentation
+- CrowdStrike Falcon
+- Burp Suite
+- End Point Management 
 
 ## Selected practical work
 
